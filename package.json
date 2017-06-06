@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A sample Node.js app for mocha",
   "scripts": {
-    "start": "jenkins-mocha test/test.js "
+    "start": "mocha test/test.js"
   },
   "devDependencies": {
     "chai": "^3.5.0",
